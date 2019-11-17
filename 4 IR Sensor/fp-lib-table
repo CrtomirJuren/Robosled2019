@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name TCRT5000L)(type Legacy)(uri ${KIPRJMOD}/TCRT5000L/TCRT5000L.mod)(options "")(descr ""))
-)

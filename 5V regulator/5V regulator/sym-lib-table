@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name w_connectors)(type Legacy)(uri "C:/KiCad/5V regulator/lib_sch/w_connectors.lib")(options "")(descr ""))
-  (lib (name w_device)(type Legacy)(uri "C:/KiCad/5V regulator/lib_sch/w_device.lib")(options "")(descr ""))
-)

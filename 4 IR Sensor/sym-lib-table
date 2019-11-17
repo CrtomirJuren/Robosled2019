@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name TCRT5000L)(type Legacy)(uri "C:/Users/crtjur/Desktop/4 IR Sensor/TCRT5000L/TCRT5000L.lib")(options "")(descr ""))
-  (lib (name 4-IR-Sensor-rescue)(type Legacy)(uri "${KIPRJMOD}/4 IR Sensor-rescue.lib")(options "")(descr ""))
-)

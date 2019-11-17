@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name LM239N)(type Legacy)(uri ${KIPRJMOD}/LM239N.lib)(options "")(descr ""))
+  (lib (name "potentiometer square 10k")(type Legacy)(uri "${KIPRJMOD}/potentiometer square 10k.lib")(options "")(descr ""))
+)

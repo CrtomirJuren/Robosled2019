@@ -1,5 +1,0 @@
-(fp_lib_table
-  (lib (name w_conn_screw)(type KiCad)(uri "C:/KiCad/5V regulator/lib_fp.pretty/w_conn_screw.pretty")(options "")(descr "screw terminals pretty"))
-  (lib (name conn_screw)(type KiCad)(uri "C:/KiCad/5V regulator/3d_models/conn_screw")(options "")(descr "screw terminals 3d"))
-  (lib (name Capacitors_THT)(type KiCad)(uri "C:/KiCad/5V regulator/lib_fp.pretty/Capacitors_THT.pretty-master")(options "")(descr ""))
-)
